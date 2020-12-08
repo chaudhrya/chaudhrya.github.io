@@ -8,7 +8,7 @@ Professor [Amir Ali Ahmadi](http://aaa.princeton.edu/) is my advisor.
 
 Before Princeton, I did my undergrad at Brown University.
 
-## Research
+## Research Interests
 
 I am interested in problems in optimization and the mathematics of data science.
 
