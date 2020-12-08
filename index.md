@@ -16,6 +16,7 @@ I am interested in problems in optimization and the mathematics of data science.
 
 - Safely Learning Dynamical Systems from Short Trajectories
   - Amir Ali Ahmadi, Abraar Chaudhry, Vikas Sindhwani, Stephen Tu
+  - [arXiv link](https://arxiv.org/abs/2011.12257)
 
 ## Teaching
 
