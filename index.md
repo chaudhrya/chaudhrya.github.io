@@ -4,7 +4,7 @@
 
 I am a PhD student in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
-Professor [Amir Ali Ahmadi](http://aaa.princeton.edu/) is my advisor.
+My advisors are [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Liza (Elizaveta) Rebrova](https://erebrova.github.io/).
 
 Before Princeton, I did my undergrad at Brown University.
 
@@ -12,7 +12,15 @@ Before Princeton, I did my undergrad at Brown University.
 
 I am interested in problems in optimization and the mathematics of data science.
 
+## Work in Progress
+
+- Generalized Ellipsoids
+  - Amir Ali Ahmadi, Abraar Chaudhry, Cemil Dibek
+
 ## Papers
+
+- [Higher-Order Newton Methods with Polynomial Work per Iteration](https://optimization-online.org/2023/11/higher-order-newton-methods-with-polynomial-work-per-iteration/)
+  - Amir Ali Ahmadi, Abraar Chaudhry, Jeffrey Zhang
 
 - [Safely Learning Dynamical Systems](https://arxiv.org/abs/2305.12284)
   - Amir Ali Ahmadi, Abraar Chaudhry, Vikas Sindhwani, Stephen Tu
@@ -28,9 +36,13 @@ I am interested in problems in optimization and the mathematics of data science.
 ### Princeton University
 
 - TA for **Computing and Optimization**
-  - Fall 2020
+  - Fall 2020, 2021, 2022, 2023
   - Taught by Amir Ali Ahmadi
 
 - TA for **Convex and Conic Optimization**
-  - Spring 2021
+  - Spring 2021, 2022, 2023
   - Taught by Amir Ali Ahmadi
+
+- Ta for **Senior Independent Research Foundations**
+  - Fall 2023
+  - Taught by Daniel Rigobon
