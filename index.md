@@ -17,6 +17,9 @@ I am interested in problems in optimization and the mathematics of data science.
 - Generalized Ellipsoids
   - Amir Ali Ahmadi, Abraar Chaudhry, Cemil Dibek
 
+- Stable Matrices in an Affine Subspace
+  - Amir Ali Ahmadi, Abraar Chaudhry
+
 ## Papers
 
 - [Higher-Order Newton Methods with Polynomial Work per Iteration](https://optimization-online.org/2023/11/higher-order-newton-methods-with-polynomial-work-per-iteration/)
