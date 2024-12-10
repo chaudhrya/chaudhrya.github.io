@@ -2,11 +2,15 @@
 
 ![a picture](https://chaudhrya.github.io//images/picture.jpg "a picture")
 
-I am a PhD student in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
+I am a Postdoctoral Fellow in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
+I am currently working with [Katya Scheinberg](https://sites.gatech.edu/katya-scheinberg/).
 
-My advisors are [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Liza (Elizaveta) Rebrova](https://erebrova.github.io/).
+I did my PhD in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
+My advisors were [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Liza (Elizaveta) Rebrova](https://erebrova.github.io/).
 
 Before Princeton, I did my undergrad at Brown University.
+
+My email is achaudhry61 (at) gatech (dot) edu
 
 ## Research Interests
 
@@ -14,13 +18,13 @@ I am interested in problems in optimization and the mathematics of data science.
 
 ## Work in Progress
 
-- Generalized Ellipsoids
-  - Amir Ali Ahmadi, Abraar Chaudhry, Cemil Dibek
-
 - Stable Matrices in an Affine Subspace
   - Amir Ali Ahmadi, Abraar Chaudhry
 
 ## Papers
+
+- [Generalized Ellipsoids](https://arxiv.org/abs/2407.20362)
+  - Amir Ali Ahmadi, Abraar Chaudhry, Cemil Dibek
 
 - [Higher-Order Newton Methods with Polynomial Work per Iteration](https://optimization-online.org/2023/11/higher-order-newton-methods-with-polynomial-work-per-iteration/)
   - Amir Ali Ahmadi, Abraar Chaudhry, Jeffrey Zhang
