@@ -1,6 +1,6 @@
 ## Abraar Chaudhry
 
-![a picture](https://chaudhrya.github.io//images/picture.jpg "a picture")
+![a picture](https://chaudhrya.github.io//images/picture.jpg "a picture of me")
 
 I am a Postdoctoral Fellow in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
 I am currently working with [Katya Scheinberg](https://sites.gatech.edu/katya-scheinberg/).
