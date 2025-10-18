@@ -27,7 +27,7 @@ I am interested in problems in optimization and the mathematics of data science.
 
 ## Papers
 
-- On Complexity of Model-Based Derivative-Free Methods
+- [On Complexity of Model-Based Derivative-Free Methods](https://arxiv.org/abs/2510.14935)
   - Abraar Chaudhry, Katya Scheinberg
   - Proceedings of International Congress of Mathematicians 2026, to appear
 
