@@ -37,7 +37,7 @@ I am interested in problems in optimization and the mathematics of data science.
 
 - [Learning nonnegative matrix factorizations from compressed data](https://arxiv.org/abs/2409.04994)
   - Abraar Chaudhry, Elizaveta Rebrova
-  - In Revision for SIAM Journal on Matrix Analysis and Applications
+  - Accepted for SIAM Journal on Matrix Analysis and Applications
 
 - [Higher-Order Newton Methods with Polynomial Work per Iteration](https://arxiv.org/abs/2311.06374)
   - Amir Ali Ahmadi, Abraar Chaudhry, Jeffrey Zhang
