@@ -2,16 +2,17 @@
 
 ![a picture](https://chaudhrya.github.io//images/picture.jpg "a picture of me")
 
-I am a Postdoctoral Fellow in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/).
-I am currently working with [Katya Scheinberg](https://sites.gatech.edu/katya-scheinberg/).
+I am Keith Julien Visiting Assistant Professor in the [Department of Applied Math](https://www.colorado.edu/amath/) at the [University of Colorado Boulder](https://www.colorado.edu/).
 
-I did my PhD in the Department of [Operations Research and Financial Engineering](https://orfe.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
+Previously, I was a Postdoctoral Fellow in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), working with [Katya Scheinberg](https://sites.gatech.edu/katya-scheinberg/).
+
+I did my PhD in the [Department of Operations Research and Financial Engineering](https://orfe.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 My advisors were [Amir Ali Ahmadi](http://aaa.princeton.edu/) and [Liza (Elizaveta) Rebrova](https://erebrova.github.io/).
 You can read my thesis [here](http://arks.princeton.edu/ark:/88435/dsp01vt150n65n).
 
 Before Princeton, I did my undergrad at Brown University.
 
-My email is achaudhry61 (at) gatech (dot) edu
+My email is abraar (dot) chaudhry (at) colorado (dot) edu
 
 ## Research Interests
 
