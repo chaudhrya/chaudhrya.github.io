@@ -30,15 +30,15 @@ I am interested in problems in optimization and the mathematics of data science.
 
 - [On Complexity of Model-Based Derivative-Free Methods](https://arxiv.org/abs/2510.14935)
   - Abraar Chaudhry, Katya Scheinberg
-  - Proceedings of International Congress of Mathematicians 2026, to appear
+  - Proceedings of the International Congress of Mathematicians 2026
 
 - [Generalized Ellipsoids](https://arxiv.org/abs/2407.20362)
   - Amir Ali Ahmadi, Abraar Chaudhry, Cemil Dibek
-  - Mathematics of Operations Research, to appear
+  - Mathematics of Operations Research
 
 - [Learning nonnegative matrix factorizations from compressed data](https://arxiv.org/abs/2409.04994)
   - Abraar Chaudhry, Elizaveta Rebrova
-  - Accepted for SIAM Journal on Matrix Analysis and Applications
+  - SIAM Journal on Matrix Analysis and Applications
 
 - [Higher-Order Newton Methods with Polynomial Work per Iteration](https://arxiv.org/abs/2311.06374)
   - Amir Ali Ahmadi, Abraar Chaudhry, Jeffrey Zhang
