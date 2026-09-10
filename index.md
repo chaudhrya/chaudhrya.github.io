@@ -28,6 +28,10 @@ I am interested in problems in optimization and the mathematics of data science.
 
 ## Papers
 
+- [Powell-Style Model-Based Derivative-Free Optimization with Complexity Guarantees](https://arxiv.org/abs/2609.09441)
+  - Abraar Chaudhry, Katya Scheinberg, Scholar Sun
+  - preprint
+
 - [On Complexity of Model-Based Derivative-Free Methods](https://arxiv.org/abs/2510.14935)
   - Abraar Chaudhry, Katya Scheinberg
   - Proceedings of the International Congress of Mathematicians 2026
