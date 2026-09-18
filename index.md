@@ -19,14 +19,15 @@ My email is abraar (dot) chaudhry (at) colorado (dot) edu
 I am interested in problems in optimization and the mathematics of data science.
 
 ## Work in Progress
-
-- Stable Matrices in an Affine Subspace
-  - Amir Ali Ahmadi, Abraar Chaudhry
  
 - Stable Dynamics driven by Noise
   - Abraar Chaudhry, Stephen Tu
 
 ## Papers
+
+- [Complexity Of Output Feedback Stabilization](https://arxiv.org/abs/2609.20636)
+  - Amir Ali Ahmadi, Abraar Chaudhry, Ijay Narang, Yukai Tang
+  - preprint
 
 - [Powell-Style Model-Based Derivative-Free Optimization with Complexity Guarantees](https://arxiv.org/abs/2609.09441)
   - Abraar Chaudhry, Katya Scheinberg, Scholar Sun
